@@ -1,0 +1,3 @@
+headers = cpp/example.h
+headerFilter = cpp/example.h
+compilerOpts = -Isrc/nativeInterop/cinterop
